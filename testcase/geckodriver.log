@@ -2014,3 +2014,1049 @@ JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/sel
 (firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 
 (firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504750984362	geckodriver	INFO	Listening on 127.0.0.1:35947
+1504750985352	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LBnU5AGU74JA
+1504750985352	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504750985357	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45164
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504750986431	Marionette	INFO	Listening on port 45164
+1504750987748	Marionette	INFO	startBrowser 13c4e4c8-4875-48d5-a481-1657a875b444
+
+(/usr/lib/firefox/plugin-container:29747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:29747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29685): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504751086384	geckodriver	INFO	Listening on 127.0.0.1:44175
+1504751087384	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kXBgcoeiUhqf
+1504751087384	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504751087389	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43561
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504751088176	Marionette	INFO	Listening on port 43561
+1504751089397	Marionette	INFO	startBrowser e4047061-fcc3-4259-a6d1-3ac39948d403
+
+(/usr/lib/firefox/plugin-container:32505): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32505): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:32505): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1461_21111_17001_22159&csor=1&cb=jQuery110205289156384283564_1504751091827&_=1504751091829, line 1: TypeError: jQuery110205289156384283564_1504751091827 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1461_21111_17001_22159&csor=3&pwd=yo&cb=jQuery110205289156384283564_1504751091827&_=1504751091831, line 1: TypeError: jQuery110205289156384283564_1504751091827 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1461_21111_17001_22159&csor=4&pwd=yoy&cb=jQuery110205289156384283564_1504751091827&_=1504751091832, line 1: TypeError: jQuery110205289156384283564_1504751091827 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1461_21111_17001_22159&csor=2&pwd=y&cb=jQuery110205289156384283564_1504751091827&_=1504751091830, line 1: TypeError: jQuery110205289156384283564_1504751091827 is not a function
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32441): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d02e0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55ce3441a0' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+
+(firefox:32441): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f55c39d0330' of type 'MaiAtkType13b'
+1504751418851	geckodriver	INFO	Listening on 127.0.0.1:56496
+1504751419837	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OJh61uHtncgP
+1504751419838	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504751419855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38970
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504751420646	Marionette	INFO	Listening on port 38970
+1504751421831	Marionette	INFO	startBrowser b5576882-1453-41e7-a6a6-364457460b36
+
+(/usr/lib/firefox/plugin-container:5927): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5927): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5927): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5927): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1455_21084&csor=1&cb=jQuery110205029254585961761_1504751425811&_=1504751425813, line 1: TypeError: jQuery110205029254585961761_1504751425811 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1455_21084&csor=2&pwd=y&cb=jQuery110205029254585961761_1504751425811&_=1504751425814, line 1: TypeError: jQuery110205029254585961761_1504751425811 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1455_21084&csor=3&pwd=yo&cb=jQuery110205029254585961761_1504751425811&_=1504751425815, line 1: TypeError: jQuery110205029254585961761_1504751425811 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1455_21084&csor=4&pwd=yoy&cb=jQuery110205029254585961761_1504751425811&_=1504751425816, line 1: TypeError: jQuery110205029254585961761_1504751425811 is not a function
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5857): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504752111351	geckodriver	INFO	Listening on 127.0.0.1:39111
+1504752112348	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AYsUD5FMvyEF
+1504752112348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752112436	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39551
+
+(firefox:9930): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9930): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:9930): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:9930): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752113188	Marionette	INFO	Listening on port 39551
+1504752114469	Marionette	INFO	startBrowser b71a5280-d93a-4ac1-80da-83deef719da5
+1504752283804	geckodriver	INFO	Listening on 127.0.0.1:56093
+1504752284803	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vOcMLCUXOgIi
+1504752284804	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752284806	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46181
+
+(firefox:10529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10529): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10529): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752285526	Marionette	INFO	Listening on port 46181
+1504752286834	Marionette	INFO	startBrowser 29fc9ac4-5729-4725-9907-876749ad887d
+1504752343648	geckodriver	INFO	Listening on 127.0.0.1:43363
+1504752344641	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.D0Ls8DZsVaG7
+1504752344641	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752344650	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45785
+
+(firefox:10723): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10723): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10723): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10723): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752345405	Marionette	INFO	Listening on port 45785
+1504752347358	Marionette	INFO	startBrowser fc6ebbba-958d-47a5-a120-8c5087e534f7
+1504752381579	geckodriver	INFO	Listening on 127.0.0.1:37235
+1504752382575	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LEStMiXVouCn
+1504752382575	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752382582	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45808
+
+(firefox:10984): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10984): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10984): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10984): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752383437	Marionette	INFO	Listening on port 45808
+1504752384728	Marionette	INFO	startBrowser 8de9de56-8785-4aac-af93-ef398ef655ee
+
+(/usr/lib/firefox/plugin-container:11052): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11052): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11052): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752423139	geckodriver	INFO	Listening on 127.0.0.1:44541
+1504752424134	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KuAoxwddqAok
+1504752424134	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752424136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40842
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752424896	Marionette	INFO	Listening on port 40842
+1504752426131	Marionette	INFO	startBrowser 96b4f403-30a5-4174-baa4-d4cf30b89a0c
+
+(/usr/lib/firefox/plugin-container:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11292): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:11292): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11232): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fa9abde6060' of type 'MaiAtkType139'
+
+(firefox:11232): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/fchm?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504752436251&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1504752436&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCxHBBDBPhULJvV7_6XzsjpQZ6sp0aHrst-v4hGYXv88JBl0H4t1i58hjo3cFIO-7X1Z7zKm1efwfNDcQHI3-Oh4FXTRAEedF5C2aaUV9FPsK_zKrr2df_89DHgvzdFSkcLWKvZWc8itK2btBvADV8pB01fAv-QWWzQUWE22_4Ja%26wd%3D%26eqid%3D87575b730000ae470000000559b0b32b&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1504752436&qn=ee695c4f173af47c&tt=1504752436137.159.668.670, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/fchm?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504752436251&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1504752436&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCxHBBDBPhULJvV7_6XzsjpQZ6sp0aHrst-v4hGYXv88JBl0H4t1i58hjo3cFIO-7X1Z7zKm1efwfNDcQHI3-Oh4FXTRAEedF5C2aaUV9FPsK_zKrr2df_89DHgvzdFSkcLWKvZWc8itK2btBvADV8pB01fAv-QWWzQUWE22_4Ja%26wd%3D%26eqid%3D87575b730000ae470000000559b0b32b&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1504752436&qn=ee695c4f173af47c&tt=1504752436137.159.668.670, line 117: unreachable code after return statement
+
+(firefox:11232): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fa9c3459bf0' of type 'MaiAtkType13b'
+JavaScript warning: https://pos.baidu.com/pcim?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504752444799&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1504752444&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCxHBBDBPhULJvV7_6XzsjpQZ6sp0aHrst-v4hGYXv88JBl0H4t1i58hjo3cFIO-7X1Z7zKm1efwfNDcQHI3-Oh4FXTRAEedF5C2aaUV9FPsK_zKrr2df_89DHgvzdFSkcLWKvZWc8itK2btBvADV8pB01fAv-QWWzQUWE22_4Ja%26wd%3D%26eqid%3D87575b730000ae470000000559b0b32b&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1504752445&qn=ee695c4f173af47c&tt=1504752444734.78.79.84, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/pcim?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504752444799&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1504752444&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DCxHBBDBPhULJvV7_6XzsjpQZ6sp0aHrst-v4hGYXv88JBl0H4t1i58hjo3cFIO-7X1Z7zKm1efwfNDcQHI3-Oh4FXTRAEedF5C2aaUV9FPsK_zKrr2df_89DHgvzdFSkcLWKvZWc8itK2btBvADV8pB01fAv-QWWzQUWE22_4Ja%26wd%3D%26eqid%3D87575b730000ae470000000559b0b32b&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1504752445&qn=ee695c4f173af47c&tt=1504752444734.78.79.84, line 117: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x820007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1504752565261	geckodriver	INFO	Listening on 127.0.0.1:54485
+1504752566254	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.X3hKsLOqqTFS
+1504752566255	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752566265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36465
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752567102	Marionette	INFO	Listening on port 36465
+1504752568286	Marionette	INFO	startBrowser 74699ec1-b7b2-4105-91ed-82967aaa7a13
+
+(/usr/lib/firefox/plugin-container:14139): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14139): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14139): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14139): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1463_21086_18560_20928&csor=1&cb=jQuery110206325376836128924_1504752572049&_=1504752572051, line 1: TypeError: jQuery110206325376836128924_1504752572049 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1463_21086_18560_20928&csor=2&pwd=y&cb=jQuery110206325376836128924_1504752572049&_=1504752572052, line 1: TypeError: jQuery110206325376836128924_1504752572049 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1463_21086_18560_20928&csor=4&pwd=yoy&cb=jQuery110206325376836128924_1504752572049&_=1504752572054, line 1: TypeError: jQuery110206325376836128924_1504752572049 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1463_21086_18560_20928&csor=3&pwd=yo&cb=jQuery110206325376836128924_1504752572049&_=1504752572053, line 1: TypeError: jQuery110206325376836128924_1504752572049 is not a function
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504752763641	geckodriver	INFO	Listening on 127.0.0.1:56438
+1504752764642	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HOu3t2eOWAnf
+1504752764642	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504752764647	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38437
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504752765410	Marionette	INFO	Listening on port 38437
+1504752766653	Marionette	INFO	startBrowser 6e70539f-479d-4df2-b5c0-5f560521d172
+
+(/usr/lib/firefox/plugin-container:14567): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14567): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14567): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14567): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1439_21108_22160&csor=1&cb=jQuery1102000009848639861520514_1504752769697&_=1504752769699, line 1: TypeError: jQuery1102000009848639861520514_1504752769697 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1439_21108_22160&csor=3&pwd=yo&cb=jQuery1102000009848639861520514_1504752769697&_=1504752769701, line 1: TypeError: jQuery1102000009848639861520514_1504752769697 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1439_21108_22160&csor=4&pwd=yoy&cb=jQuery1102000009848639861520514_1504752769697&_=1504752769702, line 1: TypeError: jQuery1102000009848639861520514_1504752769697 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1439_21108_22160&csor=2&pwd=y&cb=jQuery1102000009848639861520514_1504752769697&_=1504752769700, line 1: TypeError: jQuery1102000009848639861520514_1504752769697 is not a function
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:14503): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504753212909	geckodriver	INFO	Listening on 127.0.0.1:42974
+1504753213909	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.81aaHM2QvWll
+1504753213909	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504753213912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45254
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504753214837	Marionette	INFO	Listening on port 45254
+1504753216314	Marionette	INFO	startBrowser 2d475319-2a20-42e6-ac9d-ef82537646ba
+
+(/usr/lib/firefox/plugin-container:15415): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15415): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15415): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15415): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1467_19035_21094_18559_24393&csor=1&cb=jQuery110206257515933104376_1504753220428&_=1504753220430, line 1: TypeError: jQuery110206257515933104376_1504753220428 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1467_19035_21094_18559_24393&csor=4&pwd=yoy&cb=jQuery110206257515933104376_1504753220428&_=1504753220433, line 1: TypeError: jQuery110206257515933104376_1504753220428 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1467_19035_21094_18559_24393&csor=3&pwd=yo&cb=jQuery110206257515933104376_1504753220428&_=1504753220432, line 1: TypeError: jQuery110206257515933104376_1504753220428 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1467_19035_21094_18559_24393&csor=2&pwd=y&cb=jQuery110206257515933104376_1504753220428&_=1504753220431, line 1: TypeError: jQuery110206257515933104376_1504753220428 is not a function
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15351): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504754150436	geckodriver	INFO	Listening on 127.0.0.1:35497
+1504754151436	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.W4lSb6DOdvuG
+1504754151437	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504754151460	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33472
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504754152506	Marionette	INFO	Listening on port 33472
+1504754154298	Marionette	INFO	startBrowser b7ff21fc-f2a2-4280-9927-55fd678b3440
+
+(/usr/lib/firefox/plugin-container:15804): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15804): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15804): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15804): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1442_21082_18560&csor=3&pwd=yo&cb=jQuery11020899032226895669_1504754157781&_=1504754157785, line 1: TypeError: jQuery11020899032226895669_1504754157781 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1442_21082_18560&csor=4&pwd=yoy&cb=jQuery11020899032226895669_1504754157781&_=1504754157786, line 1: TypeError: jQuery11020899032226895669_1504754157781 is not a function
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15735): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504754472340	geckodriver	INFO	Listening on 127.0.0.1:38736
+1504754473336	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2pLcVe7lWidX
+1504754473336	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504754473339	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44695
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504754474478	Marionette	INFO	Listening on port 44695
+1504754475885	Marionette	INFO	startBrowser da84c870-0dee-48a8-bc62-bbfa638f67e3
+
+(/usr/lib/firefox/plugin-container:18601): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18601): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18601): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18601): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1427_21107_17001_22158&csor=4&pwd=yoy&cb=jQuery1102003449729496430565_1504754480262&_=1504754480267, line 1: TypeError: jQuery1102003449729496430565_1504754480262 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1427_21107_17001_22158&csor=1&cb=jQuery1102003449729496430565_1504754480262&_=1504754480264, line 1: TypeError: jQuery1102003449729496430565_1504754480262 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1427_21107_17001_22158&csor=3&pwd=yo&cb=jQuery1102003449729496430565_1504754480262&_=1504754480266, line 1: TypeError: jQuery1102003449729496430565_1504754480262 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1427_21107_17001_22158&csor=2&pwd=y&cb=jQuery1102003449729496430565_1504754480262&_=1504754480265, line 1: TypeError: jQuery1102003449729496430565_1504754480262 is not a function
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:18542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504768431130	geckodriver	INFO	Listening on 127.0.0.1:33517
+1504768432134	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GV5Ptnl4pFhJ
+1504768432135	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504768432136	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42561
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504768433556	Marionette	INFO	Listening on port 42561
+1504768461613	Marionette	INFO	startBrowser c3303713-0ee6-4d8e-a7e3-e3feb97250a2
+
+(/usr/lib/firefox/plugin-container:24968): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24968): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24968): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24968): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1449_21114_18560_17001_20929&csor=1&cb=jQuery110206146684379902069_1504768470779&_=1504768470781, line 1: TypeError: jQuery110206146684379902069_1504768470779 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1449_21114_18560_17001_20929&csor=2&pwd=y&cb=jQuery110206146684379902069_1504768470779&_=1504768470782, line 1: TypeError: jQuery110206146684379902069_1504768470779 is not a function
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1449_21114_18560_17001_20929&csor=4&pwd=yoy&cb=jQuery110206146684379902069_1504768470779&_=1504768470784, line 1: TypeError: jQuery110206146684379902069_1504768470779 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1449_21114_18560_17001_20929&csor=3&pwd=yo&cb=jQuery110206146684379902069_1504768470779&_=1504768470783, line 1: TypeError: jQuery110206146684379902069_1504768470779 is not a function
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24882): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+ExceptionHandler::GenerateDump cloned child 25125
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+ExceptionHandler::GenerateDump cloned child 25129
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+ExceptionHandler::GenerateDump cloned child 25131
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+ExceptionHandler::GenerateDump cloned child 25137
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+1504768669059	geckodriver	INFO	Listening on 127.0.0.1:34301
+1504768670064	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Naa0YakfsFK3
+1504768670065	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504768670068	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36036
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504768671001	Marionette	INFO	Listening on port 36036
+1504768672237	Marionette	INFO	startBrowser bc6d2801-d09f-4bec-9263-62e3d68c3db1
+
+(/usr/lib/firefox/plugin-container:25484): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25484): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25484): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25484): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1465_13290_21097_20930&csor=2&pwd=y&cb=jQuery11020513348974345309_1504768674540&_=1504768674543, line 1: TypeError: jQuery11020513348974345309_1504768674540 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1465_13290_21097_20930&csor=1&cb=jQuery11020513348974345309_1504768674540&_=1504768674542, line 1: TypeError: jQuery11020513348974345309_1504768674540 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1465_13290_21097_20930&csor=4&pwd=yoy&cb=jQuery11020513348974345309_1504768674540&_=1504768674545, line 1: TypeError: jQuery11020513348974345309_1504768674540 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1465_13290_21097_20930&csor=3&pwd=yo&cb=jQuery11020513348974345309_1504768674540&_=1504768674544, line 1: TypeError: jQuery11020513348974345309_1504768674540 is not a function
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25423): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1504768697661	geckodriver	INFO	Listening on 127.0.0.1:48486
+1504768698662	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kei6gzDykgM8
+1504768698662	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1504768698667	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42398
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1504768699468	Marionette	INFO	Listening on port 42398
+1504768700783	Marionette	INFO	startBrowser 8e2e9b83-2057-493d-80fe-2e94a43e47f2
+
+(/usr/lib/firefox/plugin-container:25730): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25730): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25730): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25730): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1445_21078_17001_20930&csor=1&cb=jQuery110206509732306523949_1504768703827&_=1504768703829, line 1: TypeError: jQuery110206509732306523949_1504768703827 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1445_21078_17001_20930&csor=2&pwd=y&cb=jQuery110206509732306523949_1504768703827&_=1504768703830, line 1: TypeError: jQuery110206509732306523949_1504768703827 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1445_21078_17001_20930&csor=3&pwd=yo&cb=jQuery110206509732306523949_1504768703827&_=1504768703831, line 1: TypeError: jQuery110206509732306523949_1504768703827 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1445_21078_17001_20930&csor=4&pwd=yoy&cb=jQuery110206509732306523949_1504768703827&_=1504768703832, line 1: TypeError: jQuery110206509732306523949_1504768703827 is not a function
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25667): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7ff0e05fafb0' of type 'MaiAtkType13b'
+
+(firefox:25667): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/xcim?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504768711224&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1504768711&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DP3nH5Cbn9D1rcwRPbJO853GvvUsPzlf-dV17xFMJ3ji6UpiC4OPIOdXshkU8PY4PhWgiheG5x1BeyEnZF5SP-P35GpwB-IH2x3wR8SX-DuRjggoasAePXhyXk56Mrq40h3mcYX9mIHyojRBMsR9yEFEGZk3ZcjPJ5QjWCqX85u7%26wd%3D%26eqid%3Dc19fd16e000170530000000559b0f2b7&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1504768711&qn=76c2eecace7183ba&tt=1504768711133.125.903.932, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/xcim?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1504768711224&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1504768711&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DP3nH5Cbn9D1rcwRPbJO853GvvUsPzlf-dV17xFMJ3ji6UpiC4OPIOdXshkU8PY4PhWgiheG5x1BeyEnZF5SP-P35GpwB-IH2x3wR8SX-DuRjggoasAePXhyXk56Mrq40h3mcYX9mIHyojRBMsR9yEFEGZk3ZcjPJ5QjWCqX85u7%26wd%3D%26eqid%3Dc19fd16e000170530000000559b0f2b7&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1504768711&qn=76c2eecace7183ba&tt=1504768711133.125.903.932, line 117: unreachable code after return statement
+
+(firefox:25423): Gdk-WARNING **: firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(firefox:25667): Gdk-WARNING **: firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(/usr/lib/firefox/plugin-container:25484): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+
+(/usr/lib/firefox/plugin-container:25730): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+1507520201428	geckodriver	INFO	Listening on 127.0.0.1:57855
+1507520202422	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8qZN4cN5YtGb
+1507520202423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507520202424	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32804
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1507520203462	Marionette	INFO	Listening on port 32804
+1507520204852	Marionette	INFO	startBrowser 03f3f5ea-f179-45df-9c4c-c61035b2a046
+
+(/usr/lib/firefox/plugin-container:15976): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15976): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15976): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15976): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1465_18195_21118_17001_22160&csor=1&cb=jQuery110205903867363946581_1507520208194&_=1507520208196, line 1: TypeError: jQuery110205903867363946581_1507520208194 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1465_18195_21118_17001_22160&csor=4&pwd=yoy&cb=jQuery110205903867363946581_1507520208194&_=1507520208199, line 1: TypeError: jQuery110205903867363946581_1507520208194 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1465_18195_21118_17001_22160&csor=2&pwd=y&cb=jQuery110205903867363946581_1507520208194&_=1507520208197, line 1: TypeError: jQuery110205903867363946581_1507520208194 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1465_18195_21118_17001_22160&csor=3&pwd=yo&cb=jQuery110205903867363946581_1507520208194&_=1507520208198, line 1: TypeError: jQuery110205903867363946581_1507520208194 is not a function
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:15914): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7efda5b6f830' of type 'MaiAtkType13b'
+
+(firefox:15914): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/ccum?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520215434&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520215&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Drs-mBc2ihNBTG5xWZ3L0Qnxr9SRdupmdvnFrM-IcsnR52LKeEI8MxeA9IASqpbdmM13qkizRVmokGzN46041zjvS_s995PyEoIUMJUOlY4bYBEPLNXl3erZpDxpFO-sdFgTa5_BiIcU1_okTCEJsSDhSmkf3hM5VxsEiJdhbx1i%26wd%3D%26eqid%3Dc2ec99240001dafe0000000559daeecf&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520215&qn=53903435dfb920f6&tt=1507520215374.84.813.815, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ccum?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520215434&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520215&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Drs-mBc2ihNBTG5xWZ3L0Qnxr9SRdupmdvnFrM-IcsnR52LKeEI8MxeA9IASqpbdmM13qkizRVmokGzN46041zjvS_s995PyEoIUMJUOlY4bYBEPLNXl3erZpDxpFO-sdFgTa5_BiIcU1_okTCEJsSDhSmkf3hM5VxsEiJdhbx1i%26wd%3D%26eqid%3Dc2ec99240001dafe0000000559daeecf&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520215&qn=53903435dfb920f6&tt=1507520215374.84.813.815, line 117: unreachable code after return statement
+1507520240113	geckodriver	INFO	Listening on 127.0.0.1:34140
+1507520241095	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HcMxLQrblNhb
+1507520241095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507520241099	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44130
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1507520242911	Marionette	INFO	Listening on port 44130
+1507520245074	Marionette	INFO	startBrowser dd098fe0-3505-47d4-976c-025a45131209
+
+(/usr/lib/firefox/plugin-container:16223): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16223): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16223): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16223): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1422_13289_21117_17001_20930&csor=1&cb=jQuery110200014542315232201064_1507520248034&_=1507520248036, line 1: TypeError: jQuery110200014542315232201064_1507520248034 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1422_13289_21117_17001_20930&csor=4&pwd=yoy&cb=jQuery110200014542315232201064_1507520248034&_=1507520248039, line 1: TypeError: jQuery110200014542315232201064_1507520248034 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1422_13289_21117_17001_20930&csor=2&pwd=y&cb=jQuery110200014542315232201064_1507520248034&_=1507520248037, line 1: TypeError: jQuery110200014542315232201064_1507520248034 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1422_13289_21117_17001_20930&csor=3&pwd=yo&cb=jQuery110200014542315232201064_1507520248034&_=1507520248038, line 1: TypeError: jQuery110200014542315232201064_1507520248034 is not a function
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16164): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f1a90533ec0' of type 'MaiAtkType13b'
+
+(firefox:16164): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/acam?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520257356&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520257&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dc4ZQQCHrchTbqIe4vZSePbJELlUciNAObIase0BsKMuZSRM6JOE4gu4AxcxJ62nXpa-2ai4BQIYQWh3fE1oo9O9o1BM8msGXxVxs_hXwTAh948VwDP7mc_3ZKyYZZH1KTdVsglj_HLqMndbzaHD7bLfpBt0ek_JeTFnyT5ZSBEy%26wd%3D%26eqid%3Dc802028c000206d60000000559daeef7&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520257&qn=b8dc77c0e271dd8a&tt=1507520257164.197.774.778, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/acam?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520257356&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520257&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Dc4ZQQCHrchTbqIe4vZSePbJELlUciNAObIase0BsKMuZSRM6JOE4gu4AxcxJ62nXpa-2ai4BQIYQWh3fE1oo9O9o1BM8msGXxVxs_hXwTAh948VwDP7mc_3ZKyYZZH1KTdVsglj_HLqMndbzaHD7bLfpBt0ek_JeTFnyT5ZSBEy%26wd%3D%26eqid%3Dc802028c000206d60000000559daeef7&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520257&qn=b8dc77c0e271dd8a&tt=1507520257164.197.774.778, line 117: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1507520385614	geckodriver	INFO	Listening on 127.0.0.1:43959
+1507520386609	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gxvakCwI82AX
+1507520386609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507520386615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36974
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1507520387534	Marionette	INFO	Listening on port 36974
+1507520389072	Marionette	INFO	startBrowser edfd7f43-a472-4a1c-9cea-14216ccde4cd
+
+(/usr/lib/firefox/plugin-container:16897): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16897): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16897): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:16897): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1444_21097_17001_20927&csor=3&pwd=yo&cb=jQuery110207636766486200562_1507520399537&_=1507520399541, line 1: TypeError: jQuery110207636766486200562_1507520399537 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1444_21097_17001_20927&csor=4&pwd=yoy&cb=jQuery110207636766486200562_1507520399537&_=1507520399542, line 1: TypeError: jQuery110207636766486200562_1507520399537 is not a function
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16828): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f88b4f9be20' of type 'MaiAtkType139'
+
+(firefox:16828): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/gcvm?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520408605&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520408&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DirOKyYVwZHFVZ1D2bocNgttGmqjpiy-QbFZiInNzvLV_-AC8rXZXBVBlfzIFVIHu7qTBxoowpHOGvjqYC-rfLAyKCgGRvYO-4UnWn8-9iwRx8RivYXgC40MOlYTbAxlwzGInoNP5gEabhF074bYt6uFDcYxzic4S4Qyiyb_pAjO%26wd%3D%26eqid%3De13a98be000020d00000000559daef90&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520409&qn=941f4eadf0a3a1ef&tt=1507520408457.247.912.927, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/gcvm?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520408605&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520408&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DirOKyYVwZHFVZ1D2bocNgttGmqjpiy-QbFZiInNzvLV_-AC8rXZXBVBlfzIFVIHu7qTBxoowpHOGvjqYC-rfLAyKCgGRvYO-4UnWn8-9iwRx8RivYXgC40MOlYTbAxlwzGInoNP5gEabhF074bYt6uFDcYxzic4S4Qyiyb_pAjO%26wd%3D%26eqid%3De13a98be000020d00000000559daef90&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520409&qn=941f4eadf0a3a1ef&tt=1507520408457.247.912.927, line 117: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1507520659672	geckodriver	INFO	Listening on 127.0.0.1:40751
+1507520660673	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dfD2jSSh0E7H
+1507520660673	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507520660676	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39787
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1507520661671	Marionette	INFO	Listening on port 39787
+1507520663326	Marionette	INFO	startBrowser 46180a30-6391-432d-a525-24f4cc79ee5d
+
+(/usr/lib/firefox/plugin-container:17252): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17252): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17252): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17252): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1460_22534_21100_17001_20927&csor=1&cb=jQuery110209136893964612148_1507520666185&_=1507520666187, line 1: TypeError: jQuery110209136893964612148_1507520666185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1460_22534_21100_17001_20927&csor=2&pwd=y&cb=jQuery110209136893964612148_1507520666185&_=1507520666188, line 1: TypeError: jQuery110209136893964612148_1507520666185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1460_22534_21100_17001_20927&csor=3&pwd=yo&cb=jQuery110209136893964612148_1507520666185&_=1507520666189, line 1: TypeError: jQuery110209136893964612148_1507520666185 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1460_22534_21100_17001_20927&csor=4&pwd=yoy&cb=jQuery110209136893964612148_1507520666185&_=1507520666190, line 1: TypeError: jQuery110209136893964612148_1507520666185 is not a function
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17190): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7fae1f7ddb50' of type 'MaiAtkType139'
+
+(firefox:17190): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/lcem?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520674476&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520674&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D0cI_7Tx7qwM_sMCuCnVhi1YPGj1xDrg2btkX78VwxTVLIq8CVeHd1DxKRYRTYufT_z78zxceM5pte2JgoE3g8OjIZwgk7_9Ks7FRtvOS-hv-Kntg5X_GA-sYV4S3MgR5dDxvR6I-8_38OkGdqaAzjwEsqKc8SoOHwXPLmoRSeJK%26wd%3D%26eqid%3D93407b23000021d70000000559daf099&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520674&qn=c17bdadb64f65eab&tt=1507520674404.79.719.722, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/lcem?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520674476&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520674&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D0cI_7Tx7qwM_sMCuCnVhi1YPGj1xDrg2btkX78VwxTVLIq8CVeHd1DxKRYRTYufT_z78zxceM5pte2JgoE3g8OjIZwgk7_9Ks7FRtvOS-hv-Kntg5X_GA-sYV4S3MgR5dDxvR6I-8_38OkGdqaAzjwEsqKc8SoOHwXPLmoRSeJK%26wd%3D%26eqid%3D93407b23000021d70000000559daf099&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520674&qn=c17bdadb64f65eab&tt=1507520674404.79.719.722, line 117: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1507520754010	geckodriver	INFO	Listening on 127.0.0.1:55537
+1507520755010	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.OU8wqiXAD2Wy
+1507520755010	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1507520755013	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41098
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1507520755799	Marionette	INFO	Listening on port 41098
+1507520757240	Marionette	INFO	startBrowser fab0425c-2ce0-405a-9aa1-8d1bb8aa6b9f
+
+(/usr/lib/firefox/plugin-container:17553): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17553): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17553): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17553): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoy&json=1&p=3&sid=1429_21078_17001_22157&csor=3&pwd=yo&cb=jQuery11020003053037577141371_1507520760967&_=1507520760971, line 1: TypeError: jQuery11020003053037577141371_1507520760967 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=y&json=1&p=3&sid=1429_21078_17001_22157&csor=1&cb=jQuery11020003053037577141371_1507520760967&_=1507520760969, line 1: TypeError: jQuery11020003053037577141371_1507520760967 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yo&json=1&p=3&sid=1429_21078_17001_22157&csor=2&pwd=y&cb=jQuery11020003053037577141371_1507520760967&_=1507520760970, line 1: TypeError: jQuery11020003053037577141371_1507520760967 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=yoyo&json=1&p=3&sid=1429_21078_17001_22157&csor=4&pwd=yoy&cb=jQuery11020003053037577141371_1507520760967&_=1507520760972, line 1: TypeError: jQuery11020003053037577141371_1507520760967 is not a function
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17481): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f0f574d58d0' of type 'MaiAtkType13b'
+
+(firefox:17481): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://pos.baidu.com/icwm?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520768230&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520768&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D60qy2ZHuTkEail1myeFiZCzEqcRX52Chvh1O9LsSW_8V5AKCVbVMnyjlSNrHWsgy8HEs79YiJL6BuYy3iWRpdQprsZrFVXzAFoxSXt_Q1PzbiRFaKNK3RM4YvYsBTScJ0gnxJqw-ituGsQZumnjPg9BflTQCndZa8uA6LAFcUn7%26wd%3D%26eqid%3Df6bee3630000353a0000000559daf0f7&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520768&qn=401018a516a5e3a1&tt=1507520768110.124.1140.1142, line 117: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/icwm?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1507520768230&ti=%E6%82%A0%E6%82%A0%E7%90%83_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1266x823&pss=1266x13475&cfv=0&cpl=5&chi=1&cce=true&cec=UTF-8&tlm=1507520768&prot=2&rw=823&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E6%2582%25A0%25E6%2582%25A0%25E7%2590%2583%2F917781%3Ffr%3Daladdin%26fromid%3D12981093%26fromtitle%3DYOYO&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D60qy2ZHuTkEail1myeFiZCzEqcRX52Chvh1O9LsSW_8V5AKCVbVMnyjlSNrHWsgy8HEs79YiJL6BuYy3iWRpdQprsZrFVXzAFoxSXt_Q1PzbiRFaKNK3RM4YvYsBTScJ0gnxJqw-ituGsQZumnjPg9BflTQCndZa8uA6LAFcUn7%26wd%3D%26eqid%3Df6bee3630000353a0000000559daf0f7&ecd=1&uc=1855x994&pis=-1x-1&sr=1920x1018&tcn=1507520768&qn=401018a516a5e3a1&tt=1507520768110.124.1140.1142, line 117: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:15914): Gdk-WARNING **: firefox: Fatal IO error 11 (资源暂时不可用) on X server :0.
+
+[Child 15976] ###!!! ABORT: Aborting on channel error.: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/glue/MessageChannel.cpp, line 2052
+[Child 15976] ###!!! ABORT: Aborting on channel error.: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920002,name=PLayerTransaction::Msg_PLayerConstructor) Channel error: cannot send/recv
+
+IPDL protocol error: constructor for actor failed
+[Child 15976] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "constructor for actor failed". abort()ing as a result.: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/glue/ProtocolUtils.cpp, line 396
+[Child 15976] ###!!! ABORT: IPDL error [PLayerTransactionChild]: "constructor for actor failed". abort()ing as a result.: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/glue/ProtocolUtils.cpp, line 396

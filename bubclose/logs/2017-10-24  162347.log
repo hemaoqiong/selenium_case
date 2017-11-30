@@ -1,0 +1,4 @@
+2017-10-24 16:23:56,181 - log.py - [line:33]-INFO:Had take screenshot and save to folder : /screenshots
+2017-10-24 16:24:00,496 - log.py - [line:33]-INFO:Had take screenshot and save to folder : /screenshots
+2017-10-24 16:24:02,480 - log.py - [line:33]-INFO:The element ' 邮箱黄页 ' was clicked.
+2017-10-24 16:24:04,639 - log.py - [line:33]-INFO:The element ' 企业邮箱 ' was clicked.

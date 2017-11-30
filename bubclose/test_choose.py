@@ -17,3 +17,10 @@ tim = time.strftime('%Y%m%d %H:%M', time.localtime())
 filename = filepath + tim + 'png'
 driver.get_screenshot_as_file(filename)
 # ddriver.get_screenshot_as_base64
+
+
+driver = webdriver.Firefox()
+driver.get('http://www.baidu.com')
+i=driver.find_elements_by_id('kw')
+i.clear()
+i.send_keys(u'何茂琼')
