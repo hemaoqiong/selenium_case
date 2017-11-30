@@ -1,0 +1,350 @@
+1498470129967	geckodriver	INFO	Listening on 127.0.0.1:51332
+1498470130903	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KDOw4T9GsSDo
+1498470130904	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498470130911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40149
+
+(firefox:15682): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15682): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15682): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15682): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498470132311	Marionette	INFO	Listening on port 40149
+1498470134441	Marionette	INFO	startBrowser 1d1add3c-7d6f-4add-8325-b3f23ddf9991
+
+(/usr/lib/firefox/plugin-container:15751): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15751): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15751): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15751): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498470351867	geckodriver	INFO	Listening on 127.0.0.1:54027
+1498470352868	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DgSaA6ZkFd4Q
+1498470352869	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498470352876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33193
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498470354274	Marionette	INFO	Listening on port 33193
+1498470356482	Marionette	INFO	startBrowser 46d2344b-f841-4f08-b4c5-9e05bad25373
+
+(/usr/lib/firefox/plugin-container:18786): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18786): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18786): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18786): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498470409217	geckodriver	INFO	Listening on 127.0.0.1:44970
+1498470410222	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CEnzguEalB1f
+1498470410223	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498470410225	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45333
+
+(firefox:18977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18977): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18977): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498470411492	Marionette	INFO	Listening on port 45333
+1498470413575	Marionette	INFO	startBrowser c93253e5-3630-4f5e-97e3-802f5da167ed
+
+(/usr/lib/firefox/plugin-container:19050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19050): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19050): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498470507807	geckodriver	INFO	Listening on 127.0.0.1:39439
+1498470508806	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9i3xSNtginMS
+1498470508807	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498470508813	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45746
+
+(firefox:19218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19218): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19218): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498470510083	Marionette	INFO	Listening on port 45746
+1498470512038	Marionette	INFO	startBrowser 318e06c5-b53f-419c-a9a5-ea6a590be954
+
+(/usr/lib/firefox/plugin-container:19287): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19287): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19287): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19287): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498470558639	geckodriver	INFO	Listening on 127.0.0.1:33636
+1498470559633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kqHo9lIWcjw4
+1498470559633	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498470559641	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45413
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498470560896	Marionette	INFO	Listening on port 45413
+1498470563128	Marionette	INFO	startBrowser e2751340-1323-43ba-8005-f43cde83d547
+
+(/usr/lib/firefox/plugin-container:19488): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19488): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19488): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19488): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498470855454	geckodriver	INFO	Listening on 127.0.0.1:52630
+1498470856473	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DI7EnDr2c23H
+1498470856474	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498470856516	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40277
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498470857925	Marionette	INFO	Listening on port 40277
+1498470860265	Marionette	INFO	startBrowser 70e81665-4a64-4304-b423-ecd3cdbd1855
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498471041572	geckodriver	INFO	Listening on 127.0.0.1:50660
+1498471042565	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yPwvxrwfBmhY
+1498471042565	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498471042593	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40258
+
+(firefox:19927): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19927): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19927): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19927): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498471043886	Marionette	ERROR	Error on starting server: [Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 91"  data: no]
+[Exception... "Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]"  nsresult: "0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE)"  location: "JS frame :: chrome://marionette/content/server.js :: MarionetteServer.prototype.start :: line 91"  data: no]
+MarionetteServer.prototype.start@chrome://marionette/content/server.js:91:19
+MarionetteComponent.prototype.init@resource://gre/components/marionettecomponent.js:218:5
+MarionetteComponent.prototype.observe@resource://gre/components/marionettecomponent.js:142:7
+
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498471069854	geckodriver	INFO	Listening on 127.0.0.1:39688
+1498471070848	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.got3ShASsdFC
+1498471070849	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498471070866	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42649
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498471071887	Marionette	INFO	Listening on port 42649
+1498471073804	Marionette	INFO	startBrowser 424a14c2-5ee9-4bb6-9664-f608faff3f73
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498471153261	geckodriver	INFO	Listening on 127.0.0.1:37709
+1498471154190	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.11UyKopjM5Ox
+1498471154190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498471154191	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46317
+
+(firefox:20284): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20284): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20284): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20284): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498471155597	Marionette	INFO	Listening on port 46317
+1498471157900	Marionette	INFO	startBrowser 96d063cd-359e-495d-8b90-c62aeffd64be
+
+(/usr/lib/firefox/plugin-container:20355): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20355): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20355): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20355): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498471196295	geckodriver	INFO	Listening on 127.0.0.1:45848
+1498471197297	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6SL1yFeYqh8X
+1498471197298	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498471197310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32775
+
+(firefox:20491): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20491): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20491): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20491): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498471198734	Marionette	INFO	Listening on port 32775
+1498471201116	Marionette	INFO	startBrowser 1e7ae386-025b-4b05-ac1e-731bf5a23fcf
+
+(/usr/lib/firefox/plugin-container:20554): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20554): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20554): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20143): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:19726): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:19426): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:19662): Gdk-WARNING **: firefox: Fatal IO error 0 (成功) on X server :0.
+
+
+(/usr/lib/firefox/plugin-container:19488): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 104 (连接被对方重设) on X server :0.
+
+
+(firefox:20076): Gdk-WARNING **: firefox: Fatal IO error 0 (成功) on X server :0.
+
+
+(/usr/lib/firefox/plugin-container:20143): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 104 (连接被对方重设) on X server :0.
+
+
+(/usr/lib/firefox/plugin-container:19726): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 104 (连接被对方重设) on X server :0.
+
+
+(firefox:19218): Gdk-WARNING **: firefox: Fatal IO error 104 (连接被对方重设) on X server :0.
+
+
+(/usr/lib/firefox/plugin-container:18786): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 0 (成功) on X server :0.
+
+[Child 19287] ###!!! ABORT: Aborting on channel error.: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/glue/MessageChannel.cpp, line 2052
+[Child 19287] ###!!! ABORT: Aborting on channel error.: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/glue/MessageChannel.cpp, line 2052
+
+(/usr/lib/firefox/plugin-container:15751): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 0 (成功) on X server :0.
+
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+1498550167190	geckodriver	INFO	Listening on 127.0.0.1:58711
+1498550168181	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wTL3PhNbrqVX
+1498550168182	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498550168188	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33570
+
+(firefox:10113): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10113): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10113): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10113): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498550169499	Marionette	INFO	Listening on port 33570
+1498550170866	Marionette	INFO	startBrowser c533ff2a-6aef-4d2d-8b6d-dab6e0c36000
+
+(/usr/lib/firefox/plugin-container:10175): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10175): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10175): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10175): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1498550236508	geckodriver	INFO	Listening on 127.0.0.1:37497
+1498550237506	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yGhmnm9sCBDd
+1498550237506	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1498550237513	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40118
+
+(firefox:10365): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10365): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:10365): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:10365): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1498550238306	Marionette	INFO	Listening on port 40118
+1498550239574	Marionette	INFO	startBrowser a464f2c8-fb33-49d6-8aa5-b0efdfd33fc0
+
+(/usr/lib/firefox/plugin-container:10438): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10438): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10438): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:10438): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+[Parent 10365] WARNING: pipe error: 断开的管道: file /build/firefox-XpkqMU/firefox-49.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 677

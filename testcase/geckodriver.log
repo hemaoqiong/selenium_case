@@ -1,0 +1,2016 @@
+1494559718179	geckodriver	INFO	Listening on 127.0.0.1:33991
+1494559719168	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7Dry5gq6oBYf
+1494559719168	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494559719175	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34983
+
+(firefox:14415): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14415): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14415): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14415): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494559720304	Marionette	INFO	Listening on port 34983
+1494559721692	Marionette	INFO	startBrowser 96d2c428-5a33-4ce5-bec8-9939d89b5959
+
+(/usr/lib/firefox/plugin-container:14485): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14485): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14485): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14485): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494559799816	geckodriver	INFO	Listening on 127.0.0.1:45240
+1494559800819	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YX66yqrSgSYc
+1494559800820	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494559800823	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39840
+
+(firefox:14640): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14640): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14640): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14640): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494559801606	Marionette	INFO	Listening on port 39840
+1494559802789	Marionette	INFO	startBrowser 0df981ff-1f29-4ce6-8afc-d2d47680338e
+
+(/usr/lib/firefox/plugin-container:14711): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14711): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14711): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14711): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494559846648	geckodriver	INFO	Listening on 127.0.0.1:34745
+1494559847649	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Kh3Ly2euFpF6
+1494559847649	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494559847651	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35993
+
+(firefox:14848): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14848): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14848): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14848): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494559848403	Marionette	INFO	Listening on port 35993
+1494559849686	Marionette	INFO	startBrowser fc829a23-c03a-4bd4-b421-bdb62be90026
+
+(/usr/lib/firefox/plugin-container:14921): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14921): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14921): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14921): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494915785016	geckodriver	INFO	Listening on 127.0.0.1:57257
+1494915786013	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YEpe7IIWYYid
+1494915786015	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494915786021	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44006
+
+(firefox:17045): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17045): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17045): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17045): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494915787038	Marionette	INFO	Listening on port 44006
+1494915788684	Marionette	INFO	startBrowser 32c8793f-ad76-427f-905b-b406b89d6692
+
+(/usr/lib/firefox/plugin-container:17110): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17110): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17110): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17110): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494915859849	geckodriver	INFO	Listening on 127.0.0.1:57173
+1494915860854	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IpxKFe2GZTFT
+1494915860854	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494915860865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35990
+
+(firefox:17270): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17270): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17270): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17270): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494915861807	Marionette	INFO	Listening on port 35990
+1494915863442	Marionette	INFO	startBrowser 42662c38-fba1-48a0-b6f2-c6db54e576a3
+
+(/usr/lib/firefox/plugin-container:17342): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17342): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17342): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17342): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494915965015	geckodriver	INFO	Listening on 127.0.0.1:48179
+1494915966013	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dIgUkcMssRDg
+1494915966013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494915966016	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36534
+
+(firefox:17498): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17498): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17498): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17498): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494915967024	Marionette	INFO	Listening on port 36534
+1494915968754	Marionette	INFO	startBrowser a73c7a42-9355-4665-a01b-cda67898c4be
+
+(/usr/lib/firefox/plugin-container:17570): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17570): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17570): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17570): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494916048767	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1494916097608	geckodriver	INFO	Listening on 127.0.0.1:41657
+1494916098611	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GlhfpJXpl5VP
+1494916098611	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494916098613	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40304
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494916099612	Marionette	INFO	Listening on port 40304
+1494916101244	Marionette	INFO	startBrowser 9102695c-6ed4-438f-986a-bf2a2c09b97f
+
+(/usr/lib/firefox/plugin-container:17819): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17819): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17819): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:17819): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17747): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494916385610	geckodriver	INFO	Listening on 127.0.0.1:34231
+1494916386611	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xbV0JoETMYHX
+1494916386612	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494916386616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38780
+
+(firefox:18009): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18009): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:18009): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:18009): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494916387624	Marionette	INFO	Listening on port 38780
+1494916389179	Marionette	INFO	startBrowser 03976d42-091d-4f89-8fb5-954b12ef6b92
+
+(/usr/lib/firefox/plugin-container:18071): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18071): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18071): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:18071): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494916496934	geckodriver	INFO	Listening on 127.0.0.1:57413
+1494916497943	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WpcCVH4jlUS5
+1494916497944	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494916497950	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33513
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494916498948	Marionette	INFO	Listening on port 33513
+1494916500723	Marionette	INFO	startBrowser ba9709df-8cef-42ff-b465-ad7bbfc51eea
+
+(/usr/lib/firefox/plugin-container:20796): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20796): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20796): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20796): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20717): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494916752589	geckodriver	INFO	Listening on 127.0.0.1:41831
+1494916753585	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.omJE1zTeunDQ
+1494916753585	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494916753592	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41544
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494916754781	Marionette	INFO	Listening on port 41544
+1494916756649	Marionette	INFO	startBrowser adece699-2a9d-406e-9815-3187a2f020e3
+
+(/usr/lib/firefox/plugin-container:21038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21038): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21038): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:20974): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494916803746	geckodriver	INFO	Listening on 127.0.0.1:40250
+1494916804732	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8hH2rIadhmcp
+1494916804733	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494916804740	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32816
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494916805848	Marionette	INFO	Listening on port 32816
+1494916807680	Marionette	INFO	startBrowser c7f0dda1-1088-466a-9130-9bc702eb2aec
+
+(/usr/lib/firefox/plugin-container:21241): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21241): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21241): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21241): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21180): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494916836730	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1494916887697	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494917496129	geckodriver	INFO	Listening on 127.0.0.1:38627
+1494917497134	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pZX8WkipYHuS
+1494917497135	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494917497142	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43886
+
+(firefox:21509): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21509): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21509): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21509): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494917498042	Marionette	INFO	Listening on port 43886
+1494917499543	Marionette	INFO	startBrowser e66c48b4-6b82-4c3a-bd01-6ccbafc3cfc5
+
+(/usr/lib/firefox/plugin-container:21584): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21584): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21584): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21584): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494918335963	geckodriver	INFO	Listening on 127.0.0.1:52651
+1494918336963	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.t4lcZWsBTnVs
+1494918336963	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494918336964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33812
+
+(firefox:21792): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21792): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21792): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21792): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494918337952	Marionette	INFO	Listening on port 33812
+1494918339387	Marionette	INFO	startBrowser 2024ba7a-5816-4a64-8de5-d0b7567f1e42
+
+(/usr/lib/firefox/plugin-container:21862): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21862): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21862): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21862): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494927566789	geckodriver	INFO	Listening on 127.0.0.1:42864
+1494927567781	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ovnk4b2FJGef
+1494927567782	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494927567784	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42561
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494927569170	Marionette	INFO	Listening on port 42561
+1494927571111	Marionette	INFO	startBrowser f2bac70e-3ae9-45bf-91d4-f87849518484
+
+(/usr/lib/firefox/plugin-container:23998): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23998): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23998): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23998): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23928): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/captcha/c_2.2.2.js, line 25: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494927795627	geckodriver	INFO	Listening on 127.0.0.1:48180
+1494927796628	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sQFIuzOokTYr
+1494927796628	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494927796631	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44378
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494927797564	Marionette	INFO	Listening on port 44378
+1494927799142	Marionette	INFO	startBrowser 1eb39169-0499-4255-a127-2446bfb083cd
+
+(/usr/lib/firefox/plugin-container:24227): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24227): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24227): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24227): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 472: TypeError: this.tablesData[table] is undefined
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://ursdoccdn.nosdn.127.net/m163_1.0.1/pp_index_dl_100ca40654d9b20908e06c7119438d06.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: Refused to create native OpenGL context because of blacklisting.
+Refused to create native OpenGL context because of blacklisting.
+1494927855353	geckodriver	INFO	Listening on 127.0.0.1:41705
+1494927856334	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oNSbadysAqR4
+1494927856335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494927856341	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46398
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494927857308	Marionette	INFO	Listening on port 46398
+1494927858523	Marionette	INFO	startBrowser 1570b7f0-0a09-4c0e-b8db-893db5f33711
+
+(/usr/lib/firefox/plugin-container:24458): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24458): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24458): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24458): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24387): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494928032406	geckodriver	INFO	Listening on 127.0.0.1:50472
+1494928033406	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MaefwRu6QsFA
+1494928033406	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494928033409	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42921
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494928034184	Marionette	INFO	Listening on port 42921
+1494928035516	Marionette	INFO	startBrowser 0f72c266-d01f-4a90-af99-4bf3a909601e
+
+(/usr/lib/firefox/plugin-container:24688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24688): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24688): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24625): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494928107640	geckodriver	INFO	Listening on 127.0.0.1:47084
+1494928108639	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fPzk7slvamz6
+1494928108639	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494928108642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43853
+
+(firefox:24850): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24850): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24850): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24850): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494928109435	Marionette	INFO	Listening on port 43853
+1494928110628	Marionette	INFO	startBrowser 42b95e8b-f2c2-47e0-be2d-8b5cb7f0546d
+
+(/usr/lib/firefox/plugin-container:24915): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24915): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24915): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24915): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494928149090	geckodriver	INFO	Listening on 127.0.0.1:47921
+1494928150091	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.m7rC5tyWqHGq
+1494928150091	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494928150093	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42676
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494928150861	Marionette	INFO	Listening on port 42676
+1494928152194	Marionette	INFO	startBrowser 467129de-5722-4463-b872-97583554e9db
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1494928177362	geckodriver	INFO	Listening on 127.0.0.1:60579
+1494928178361	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.czTuBWkNt3U1
+1494928178362	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1494928178364	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35130
+
+(firefox:25237): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25237): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25237): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25237): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1494928179159	Marionette	INFO	Listening on port 35130
+1494928180506	Marionette	INFO	startBrowser 947ed42e-0284-4e71-83ee-bfbdd8f3a5ee
+
+(/usr/lib/firefox/plugin-container:25310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25044): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25106): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24625): Gdk-WARNING **: firefox: Fatal IO error 11 (资源暂时不可用) on X server :1.
+
+
+(firefox:25044): Gdk-WARNING **: firefox: Fatal IO error 11 (资源暂时不可用) on X server :1.
+
+
+(/usr/lib/firefox/plugin-container:24688): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 104 (连接被对方重设) on X server :1.
+
+
+(/usr/lib/firefox/plugin-container:25106): Gdk-WARNING **: /usr/lib/firefox/plugin-container: Fatal IO error 104 (连接被对方重设) on X server :1.
+
+1495015837211	geckodriver	INFO	Listening on 127.0.0.1:46066
+1495015838196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.URhiHIUklWh6
+1495015838196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1495015838202	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40341
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1495015839108	Marionette	INFO	Listening on port 40341
+1495015840429	Marionette	INFO	startBrowser 0a3b1d7d-fc43-43ae-99ef-a75bed0f0e94
+
+(/usr/lib/firefox/plugin-container:28010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28010): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28010): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://workyun.com/public/lib/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:27942): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1495016055735	geckodriver	INFO	Listening on 127.0.0.1:35908
+1495016056737	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EHtND8Rps1DJ
+1495016056737	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1495016056759	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35071
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1495016057561	Marionette	INFO	Listening on port 35071
+1495016058983	Marionette	INFO	startBrowser adfab5b8-5c27-425c-b7f9-907ee0b5bd7a
+
+(/usr/lib/firefox/plugin-container:28358): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28358): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28358): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28358): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://workyun.com/public/lib/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28280): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1495016132473	geckodriver	INFO	Listening on 127.0.0.1:40429
+1495016133477	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UPVNbni3KISQ
+1495016133478	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1495016133481	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42598
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1495016134215	Marionette	INFO	Listening on port 42598
+1495016135458	Marionette	INFO	startBrowser 9c4d13e5-6be0-46aa-a803-7f0b74dc03a8
+
+(/usr/lib/firefox/plugin-container:28578): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28578): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28578): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:28578): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://workyun.com/public/lib/jquery/1.9.0/jquery.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:28497): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501578000192	geckodriver	INFO	Listening on 127.0.0.1:35897
+1501578001183	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VOOvo1OcAr04
+1501578001183	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578001184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43844
+
+(firefox:20668): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20668): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20668): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20668): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578001982	Marionette	INFO	Listening on port 43844
+1501578003492	Marionette	INFO	startBrowser 904c2112-c696-430e-aaa4-e148873715af
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578067869	geckodriver	INFO	Listening on 127.0.0.1:47330
+1501578068869	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fvBGTgbyZmIH
+1501578068870	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578068875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33765
+
+(firefox:20868): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20868): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:20868): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:20868): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578069824	Marionette	INFO	Listening on port 33765
+1501578071133	Marionette	INFO	startBrowser d4ed4922-2f5d-45ec-bbc2-71d50be7c31d
+
+(/usr/lib/firefox/plugin-container:20938): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20938): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:20938): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578151837	geckodriver	INFO	Listening on 127.0.0.1:53698
+1501578152846	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WgCwMK3yLt4v
+1501578152846	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578152851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39729
+
+(firefox:21103): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21103): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21103): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21103): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578153660	Marionette	INFO	Listening on port 39729
+1501578155113	Marionette	INFO	startBrowser 0c7e4c2c-54d2-43a9-83ad-a0d7c2819174
+
+(/usr/lib/firefox/plugin-container:21168): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21168): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21168): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21168): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578233641	geckodriver	INFO	Listening on 127.0.0.1:33238
+1501578234664	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aatfVYRaBa8f
+1501578234665	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578234708	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45984
+
+(firefox:21354): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21354): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21354): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21354): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578235640	Marionette	INFO	Listening on port 45984
+1501578237110	Marionette	INFO	startBrowser 50dea05e-bb7a-4b06-948f-4bf109a431d2
+
+(/usr/lib/firefox/plugin-container:21425): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21425): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21425): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21425): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578300581	geckodriver	INFO	Listening on 127.0.0.1:42344
+1501578301579	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mC9DHOHfPYOg
+1501578301580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578301584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40363
+
+(firefox:21583): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21583): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21583): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21583): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578302398	Marionette	INFO	Listening on port 40363
+1501578303720	Marionette	INFO	startBrowser 31c93718-ced3-4b30-8a6d-8bdb87bb3a2a
+
+(/usr/lib/firefox/plugin-container:21647): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21647): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21647): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21647): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578338874	geckodriver	INFO	Listening on 127.0.0.1:34672
+1501578339873	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vIQFQlHtvtDj
+1501578339873	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578339874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45170
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578340591	Marionette	INFO	Listening on port 45170
+1501578341818	Marionette	INFO	startBrowser 5427bffb-8c2f-448d-be29-da7b7af2d33d
+
+(/usr/lib/firefox/plugin-container:21842): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21842): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21842): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:21842): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21778): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578382023	geckodriver	INFO	Listening on 127.0.0.1:40015
+1501578383024	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.76eIpd5RZh0o
+1501578383025	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578383026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43555
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578383756	Marionette	INFO	Listening on port 43555
+1501578385014	Marionette	INFO	startBrowser b689d110-6da2-4af1-bf23-95c94b6a535f
+
+(/usr/lib/firefox/plugin-container:22042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22042): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22042): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21978): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f0c98079fb0' of type 'MaiAtkType139'
+1501578833003	geckodriver	INFO	Listening on 127.0.0.1:49571
+1501578834003	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2Or0ZgmIMq8J
+1501578834004	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578834005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36319
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578834788	Marionette	INFO	Listening on port 36319
+1501578835926	Marionette	INFO	startBrowser bcc1d388-e852-4b47-9a9c-809d5907cf7d
+
+(/usr/lib/firefox/plugin-container:22390): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22390): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22390): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22390): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501578875051	geckodriver	INFO	Listening on 127.0.0.1:53345
+1501578876049	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4SCK3OHJthxt
+1501578876049	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578876052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40001
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578876777	Marionette	INFO	Listening on port 40001
+1501578878059	Marionette	INFO	startBrowser 774321df-1c68-4bbd-b83b-cb8e0460a676
+
+(/usr/lib/firefox/plugin-container:22613): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22613): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22613): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22613): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22541): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f73a7b8dce0' of type 'MaiAtkType139'
+
+(firefox:22541): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f73a79093d0' of type 'MaiAtkType139'
+
+(firefox:22541): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.40.2/./gobject/gsignal.c:3408: signal name 'selection_changed' is invalid for instance '0x7f73b1312970' of type 'MaiAtkType139'
+1501578980291	geckodriver	INFO	Listening on 127.0.0.1:38246
+1501578981290	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.45PA3kXzcWAe
+1501578981290	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501578981292	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38530
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501578982053	Marionette	INFO	Listening on port 38530
+1501578983306	Marionette	INFO	startBrowser 0348ebcb-9241-453e-a2ef-be2679f62462
+
+(/usr/lib/firefox/plugin-container:22923): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22923): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22923): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:22923): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22854): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501579032020	geckodriver	INFO	Listening on 127.0.0.1:59500
+1501579033018	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.nFanxxZ1iD30
+1501579033019	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501579033026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33760
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501579033819	Marionette	INFO	Listening on port 33760
+1501579035117	Marionette	INFO	startBrowser 2a727cb0-1233-4b03-8503-1a5235249ccc
+
+(/usr/lib/firefox/plugin-container:23145): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23145): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23145): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23145): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23068): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501579514308	geckodriver	INFO	Listening on 127.0.0.1:55250
+1501579515307	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MKDpiASysAv9
+1501579515307	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501579515308	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43690
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501579516098	Marionette	INFO	Listening on port 43690
+1501579517521	Marionette	INFO	startBrowser ce93bde7-87f5-413e-91d2-83c56eeb7da4
+
+(/usr/lib/firefox/plugin-container:23438): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23438): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23438): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23438): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23372): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1501579992657	geckodriver	INFO	Listening on 127.0.0.1:32957
+1501579993657	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.S6R52saARQCV
+1501579993657	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501579993660	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33052
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501579994511	Marionette	INFO	Listening on port 33052
+1501579995764	Marionette	INFO	startBrowser 8475d6f2-0743-4850-b901-2eaae1b53339
+
+(/usr/lib/firefox/plugin-container:23832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23832): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:23832): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23774): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501580063836	geckodriver	INFO	Listening on 127.0.0.1:57681
+1501580064832	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GzliI0r2EICl
+1501580064833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580064838	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43856
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580065664	Marionette	INFO	Listening on port 43856
+1501580066997	Marionette	INFO	startBrowser 7136f915-a8af-4f75-8695-99460a498256
+
+(/usr/lib/firefox/plugin-container:24049): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24049): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24049): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24049): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:23981): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501580259371	geckodriver	INFO	Listening on 127.0.0.1:33728
+1501580260373	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6H7QeEA0IH9w
+1501580260375	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580260380	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34436
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580261377	Marionette	INFO	Listening on port 34436
+1501580262890	Marionette	INFO	startBrowser 8d7273cf-f450-486c-aee1-3ad9dd80471a
+
+(/usr/lib/firefox/plugin-container:24306): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24306): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24306): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24240): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501580344885	geckodriver	INFO	Listening on 127.0.0.1:35657
+1501580345882	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fnnxBdhP6CYS
+1501580345883	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580345890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37394
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580347514	Marionette	INFO	Listening on port 37394
+1501580348915	Marionette	INFO	startBrowser b59a2f95-1b0e-4a5e-9e2c-964edd64d7c3
+
+(/usr/lib/firefox/plugin-container:24545): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24545): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24545): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24545): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24475): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501580444294	geckodriver	INFO	Listening on 127.0.0.1:49982
+1501580445289	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CNLerxlekFqr
+1501580445290	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580445293	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39533
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580446252	Marionette	INFO	Listening on port 39533
+1501580447828	Marionette	INFO	startBrowser 9c5e7957-08bb-48ad-b6a3-f332e7bfc01a
+
+(/usr/lib/firefox/plugin-container:24766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24766): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24766): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24692): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501580490665	geckodriver	INFO	Listening on 127.0.0.1:40747
+1501580491654	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GPO9wmLQdepZ
+1501580491655	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580491661	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35850
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580493476	Marionette	INFO	Listening on port 35850
+1501580495105	Marionette	INFO	startBrowser 06c6673f-05d8-481d-8636-4942cddaefc1
+
+(/usr/lib/firefox/plugin-container:24971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24971): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:24971): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:24900): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501580759291	geckodriver	INFO	Listening on 127.0.0.1:52980
+1501580760295	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k9l0Czo69DBC
+1501580760296	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580760301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45208
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580761220	Marionette	INFO	Listening on port 45208
+1501580762529	Marionette	INFO	startBrowser e4dd216c-8860-4cc5-977d-5ddb43222045
+
+(/usr/lib/firefox/plugin-container:25235): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25235): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25235): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25165): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1501580824545	geckodriver	INFO	Listening on 127.0.0.1:46693
+1501580825635	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UUF7vz3ZOL48
+1501580825640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501580825648	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44963
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501580827144	Marionette	INFO	Listening on port 44963
+1501580828868	Marionette	INFO	startBrowser ae92d2b7-9d84-4dfa-8b94-4042a51e9502
+
+(/usr/lib/firefox/plugin-container:25478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25478): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:25478): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:25401): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600BB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600BB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600BB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD20001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600BB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1501642812240	geckodriver	INFO	Listening on 127.0.0.1:47000
+1501642813231	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9gRUAnPiMftk
+1501642813232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501642813245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38505
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501642814239	Marionette	INFO	Listening on port 38505
+1501642815683	Marionette	INFO	startBrowser 9a4d4761-2ea3-47db-a320-d33070bf75ca
+
+(/usr/lib/firefox/plugin-container:2521): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2521): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2521): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:2521): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2459): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+1501643232072	geckodriver	INFO	Listening on 127.0.0.1:60797
+1501643233073	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.J9Q8P8JAMoXd
+1501643233074	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1501643233078	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42944
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1501643233757	Marionette	INFO	Listening on port 42944
+1501643234931	Marionette	INFO	startBrowser 869e7142-364e-49e1-85ae-99f8c1f3e444
+
+(/usr/lib/firefox/plugin-container:5399): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5399): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5399): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5399): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.afb53ff18f093e84a458.js, line 6: SyntaxError: missing = in const declaration
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:5327): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
